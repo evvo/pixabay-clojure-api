@@ -2,6 +2,12 @@
 
 A Clojure library that allows you to communicate with Pixabay's API.
 
+## Installation
+
+Install the latest version as a dependency in your project
+
+[![Clojars Project](https://clojars.org/pixabay-clojure-api/latest-version.svg)](https://clojars.org/pixabay-clojure-api)
+
 ## Usage
 
 ```clojure
